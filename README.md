@@ -1,9 +1,8 @@
-# build_a_game_bot_live
+# Build a Game Bot LIVE
 
 #Overview
-This is the Game Bot code for the Live [Youtube](https://www.youtube.com/watch?v=3vxk91K1PiI) session by @Sirajology. 
-
-You can learn more about Gym here 
+This is the Game Bot code for the Live [Youtube](https://www.youtube.com/watch?v=3vxk91K1PiI) session by @Sirajology. I'm using OpenAI's 
+Gym library to train a bot in the CartPole enviroment to get better over time via reinforcement learning. 
 
 
 #Installation
@@ -35,7 +34,7 @@ python simple.py
 
 #Next
 
-You can use the hundreds of different game enviroments that OpenAI provides to train your bot. Learn more about Gym [here](https://gym.openai.com/docs) and see
+You can use the hundreds of different game enviroments that OpenAI provides to train your bot. Make your own algorithm! You can submit them to OpenAI, they've gamified the whole process with high scores. Learn more about Gym [here](https://gym.openai.com/docs) and see
 this [article](http://kvfrans.com/simple-algoritms-for-solving-cartpole/) for more in-depth coverage of these types of algorithms. 
 
 
